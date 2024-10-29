@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-6SmZCPhWGv)
+- [Live Site URL](https://frost3dwave.github.io/QR-Code-Component/)
 
 ## Built with
 
@@ -25,5 +25,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [frost3dWave](https://www.your-site.com)
+- GitHub - [frost3dWave](https://github.com/frost3dWave)
 - Frontend Mentor - [@frost3dWave](https://www.frontendmentor.io/profile/frost3dWave)
