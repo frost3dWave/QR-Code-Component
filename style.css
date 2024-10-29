@@ -17,6 +17,13 @@ html{
     background-color: var(--clr-slate-300);
 }
 
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
 body{
     max-width: 90%;
     margin-inline: auto;
@@ -31,7 +38,6 @@ body{
     justify-content: center;
     padding: 16px;
     border-radius: 20px;
-    margin-top: 50%;
 }
 
 img{
